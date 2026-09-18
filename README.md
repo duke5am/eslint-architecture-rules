@@ -102,4 +102,4 @@ baseline the existing violations, fix by directory, then promote to `"error"`.
 Seven rules, the `RuleTester` suites (204 tests), and the rollout and
 writing-rules guides.
 
-→ **Custom ESLint Rules for Architecture Boundaries**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
