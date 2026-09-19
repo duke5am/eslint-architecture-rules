@@ -102,4 +102,25 @@ baseline the existing violations, fix by directory, then promote to `"error"`.
 Seven rules, the `RuleTester` suites (204 tests), and the rollout and
 writing-rules guides.
 
+<!-- RELATED:START -->
+
+## Related tools
+
+- **[actions-audit](https://github.com/duke5am/actions-audit)** — Audit GitHub Actions workflows for supply chain risk: unpinned actions, script injection, pull_request_target, missing permissions and timeouts.
+  *(if you were searching for "github actions security audit")*
+- **[dockerfile-hardening-lint](https://github.com/duke5am/dockerfile-hardening-lint)** — Static Dockerfile audit for hardening mistakes: root user, secrets in build args, latest tags, cache-busting layer order. No Docker daemon needed.
+  *(if you were searching for "dockerfile security check")*
+- **[feature-flag-codemods](https://github.com/duke5am/feature-flag-codemods)** — Remove feature flags that are fully rolled out, and refuse any flag that cannot be proven safe to delete. Byte-level proof untouched code stays untouched.
+  *(if you were searching for "remove stale feature flags")*
+- **[playwright-flaky-test-classifier](https://github.com/duke5am/playwright-flaky-test-classifier)** — Turn Playwright's flaky label into a ranked cause: parse JSON run reports and classify each flaky test as timing, ordering, network or test-data.
+  *(if you were searching for "playwright flaky tests")*
+- **[pr-review-lint](https://github.com/duke5am/pr-review-lint)** — First-pass pull request review driven by your own markdown rules, with a dry-run that shows exactly what it would post before it posts anything.
+  *(if you were searching for "automate pr review")*
+
+All 28 tools in this set, grouped by what they check: **[dev-tools-index](https://duke5am.github.io/dev-tools-index/)**
+
+If you arrived here searching for one of these, this is the tool: **eslint architecture boundaries** · **no cross feature import** · **enforce module boundaries javascript** · **eslint import restrictions**
+
+<!-- RELATED:END -->
+
 → More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
