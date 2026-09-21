@@ -123,4 +123,4 @@ If you arrived here searching for one of these, this is the tool: **eslint archi
 
 <!-- RELATED:END -->
 
-→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
+→ **[Custom ESLint Rules for Architecture Boundaries](https://duke5am.gumroad.com/l/36-eslint-boundary-rules)** — $29 on Gumroad <!-- GUMROAD-LINK -->
